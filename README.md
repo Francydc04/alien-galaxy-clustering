@@ -1,4 +1,4 @@
-# Unsupervised Segmentation of Alien Colonies: A Comparative Study of Clustering Methods
+# Comparative Evaluation of Clustering Methods: Imputation, Model Selection and Stability
 
 **Research question:** Do the 2,240 colonies in the dataset form distinct groups, and which clustering method recovers them most reliably?
 
